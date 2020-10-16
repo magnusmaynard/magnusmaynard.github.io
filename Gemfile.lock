@@ -254,6 +254,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll
+  jekyll-gist
+  jekyll-paginate
 
 BUNDLED WITH
    2.1.4
