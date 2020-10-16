@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Software Engineer
+title: Magnus Maynard
 ---
 
+## Software Engineer
 Building systems for underwater robots.
 
 <br>
