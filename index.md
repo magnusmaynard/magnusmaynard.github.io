@@ -1,8 +1,7 @@
 ---
 layout: page
-title: 
+title: Software Engineer
 ---
-# Software Engineer
 
 Building systems for underwater robots.
 
