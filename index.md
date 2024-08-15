@@ -4,7 +4,7 @@ title: Magnus Maynard
 ---
 
 ## VP of Software Engineering
-Building teams and subsea robotics systems.
+Building teams and subsea robotics systems
 
 <br>
 <div style="display: flex;">
