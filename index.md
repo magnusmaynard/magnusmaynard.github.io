@@ -3,13 +3,13 @@ layout: page
 title: Magnus Maynard
 ---
 
-## Software Engineer
-Building systems for underwater robots.
+## VP of Software Engineering
+Engineering leader with a passion building teams and subsea robotics systems.
 
 <br>
 <div style="display: flex;">
   <img aria-hidden="true" style="filter: invert(1.0);" src="{{ '/assets/icons/location.svg' | relative_url }}"/>
-  <p>Bristol, UK</p>
+  <p>London, UK</p>
 </div>
 <div style="display: flex;">
   <a href="mailto:contact@magnus.co.uk" style="display: flex; margin-right:8px;">
