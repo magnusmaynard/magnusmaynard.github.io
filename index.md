@@ -37,7 +37,7 @@ Now based in **New Zealand** and available for **remote**, **part-time contract 
 
 <br>
 
-Please reach out if you would like to find out more!
+Please reach out for more information!
 
 <div style="display: flex;">
   <a href="mailto:contact@magnus.co.uk" style="display: flex; margin-right:8px;">
