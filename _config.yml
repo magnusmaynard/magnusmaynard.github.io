@@ -3,14 +3,12 @@ title: Magnus Maynard
 url: https://magnus.co.uk
 baseurl: ""
 permalink: ""
-remote_theme: pages-themes/minimal@v0.2.0
 
 # Gems
 plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 # Optimize Jekyll
 exclude:
