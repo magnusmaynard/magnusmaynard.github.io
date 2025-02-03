@@ -29,7 +29,8 @@ Based in **New Zealand** and available for **remote**, **part-time contract work
 </div>
 
 
-Please reach out to me for my full CV.
+Please reach out for my CV!
+
 <div style="display: flex;">
   <a href="mailto:contact@magnus.co.uk" style="display: flex; margin-right:8px;">
     <img aria-hidden="true" style="filter: invert(1.0)" src="{{ '/assets/icons/email.svg' | relative_url }}"/>
