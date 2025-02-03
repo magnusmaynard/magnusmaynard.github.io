@@ -7,7 +7,9 @@ title: Magnus Maynard
 
 ## Technical Leader and Software Engineer
 
-**Software engineer** and **technical leader** with over **10 years of experience**, delivering key projects in **subsea robotics** and **startup environments** in the UK. Experienced in combining **hands-on development** with **technical leadership**, having led teams and improved development processes while solving complex challenges.
+**Software engineer** and **technical leader** with over **10 years of experience**, delivering key projects in **subsea robotics** and **startup environments** in the UK. 
+
+Experienced in combining **hands-on development** with **technical leadership**, having led teams and improved development processes while solving complex challenges.
 
 Now based in **New Zealand** and available for **remote**, **part-time contract work**.
 
@@ -33,6 +35,7 @@ Now based in **New Zealand** and available for **remote**, **part-time contract 
   <p>New Zealand (Fully Remote)</p>
 </div>
 
+<br>
 
 Please reach out if you would like to find out more!
 
