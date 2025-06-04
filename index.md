@@ -7,14 +7,12 @@ title: Magnus Maynard
 
 ## Technical Leader and Software Engineer
 
-**Software engineer** and **technical leader** with over **10 years of experience**, delivering key projects in **robotics** and **startup environments** in the UK. 
-
-Experienced in combining **hands-on development** with **technical leadership**, having led teams and improved development processes while solving complex challenges.
+With over 10 years of experience, delivering key projects in robotics and startup environments in the UK. Experienced in combining hands-on development with technical leadership, having led teams and improved development processes while solving complex challenges.
 
 <br>
 <div style="display: flex;">
   <img aria-hidden="true" style="filter: invert(1.0);" src="{{ '/assets/icons/location.svg' | relative_url }}"/>
-  <p>Sydney, Austrailia</p>
+  <p>Sydney, Australia</p>
 </div>
 
 <br>
